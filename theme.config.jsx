@@ -5,7 +5,10 @@ export default {
     },
     logo: <b>Biosense Collective</b>,
     primaryHue: {
-        dark: 300,
-        light: 250,
-    }
+        dark: 170,
+        light: 270,
+    },
+    sidebar: {
+        defaultMenuCollapseLevel: 1,
+    },
 }
